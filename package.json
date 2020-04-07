@@ -22,7 +22,7 @@
     "pkcs1",
     "oaep",
     "pss",
-    ""constants"
+    "constants"
   ],
   "author": "rzcoder",
   "license": "MIT",
