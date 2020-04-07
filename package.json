@@ -21,7 +21,8 @@
     "verify",
     "pkcs1",
     "oaep",
-    "pss"
+    "pss",
+    ""constants"
   ],
   "author": "rzcoder",
   "license": "MIT",
